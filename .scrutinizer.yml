@@ -20,13 +20,6 @@ build:
                 symfony_app:
                     web_root: 'web/'
                     host: 'local.dev'
-    tests:
-        override:
-            -
-                command: vendor/bin/phpunit --coverage-clover=coverage-file
-                coverage:
-                    file: coverage-file
-                    format: php-clover
 
 tools:
   php_sim: true
