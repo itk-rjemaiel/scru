@@ -1,4 +1,1 @@
-scru
-====
-
-A Test project created on May 28, 2018, 10:04 am.
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/itk-rjemaiel/scru/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/itk-rjemaiel/scru/?branch=master)
